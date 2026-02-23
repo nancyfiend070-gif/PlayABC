@@ -1,10 +1,10 @@
 # Privacy Policy for PlayABC
 
-**Last updated:** [Add date, e.g. February 2025]
+**Last updated:** February 2026
 
-**Developer:** [Your name or company name]  
+**Developer:** Nancy  
 **App:** PlayABC  
-**Contact:** [Your email or support URL]
+**Contact:** nancyfiend070@gmail.com
 
 ---
 
@@ -45,7 +45,9 @@ We may update this privacy policy from time to time. The "Last updated" date at 
 
 ## Contact
 
-If you have questions about this privacy policy or the app, please contact us at [Your email or support URL].
+If you have questions about this privacy policy or the app, please contact us at nancyfiend070@gmail.com
+
+We will promptly review and delete any such information if applicable.
 
 ---
 
