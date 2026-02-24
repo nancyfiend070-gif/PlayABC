@@ -27,7 +27,7 @@ struct HomeView: View {
                     HomeMenuCard(
                         label: nil,
                         title: "Learn ABC",
-                        subtitle: "Tap each letter — see pictures and hear words!",
+                        subtitle: "Tap each letter, see pictures and hear words!",
                         emoji: "📚",
                         accent: ColorManager.letterMint,
                         action: { onLearnABCTapped?() },
